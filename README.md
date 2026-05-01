@@ -70,7 +70,8 @@ cd ..
 python setup.py install --yes USE_AVX_INSTRUCTIONS --no DLIB_USE_CUDA
 ```
 # step 2
-- Download the dlib’s pre-trained facial landmark detector. from hear "http://jmp.sh/4bIYiPU " place it place it same floder where alarm.wav contains 
+- Download the dlib’s pre-trained facial landmark detector. from hear "http://jmp.sh/4bIYiPU " place it place it same floder where alarm.wav contains   
+if you have used any other pre trained model then remember to change the name from code.
 
 - Note: without dlib’s pre-trained facial landmark detector file you can't run the code 
 
